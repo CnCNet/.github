@@ -9,7 +9,6 @@ Play the campaign and multiplayer modes of Command & Conquer games and mods. Joi
 - [Tiberian Sun Patches](https://github.com/CnCNet/ts-patches) - Command and Conquer: Tiberian Sun patches for CnCNet online gameplay.
 - [Yuri's Revenge Patches](https://github.com/CnCNet/yr-patches) - Command and Conquer: Yuri's Revenge patches for CnCNet online gameplay.
 - [YRpp Spawner](https://github.com/CnCNet/yrpp-spawner) - CnCNet DLL for Command and Conquer: Yuri's Revenge using Syringe
-- [YRpp](https://github.com/CnCNet/YRpp) - YR++ provides the necessary headers to interact with Yuri's Revenge's binary and data types in C++.
 - [CnCNet Yuri's Revenge Package](https://github.com/CnCNet/cncnet-yr-client-package) - The official CnCNet Yuri's Revenge package for online.
 - [CnCNet Ladder API](https://github.com/CnCNet/cncnet-ladder-api) - CnCNet Ladder API & UI for Command & Conquer
 - [C&C World-Altering Editor (WAE)](https://github.com/CnCNet/WorldAlteringEditor) - Map editor for C&C: Red Alert 2, C&C: Tiberian Sun and Dawn of the Tiberium Age.
